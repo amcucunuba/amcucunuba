@@ -12,9 +12,7 @@
 
 <p align="left">
   ✨ I've spent several years working with children in the healthcare field. <br>
-  
-  📚 When I'm not coding, you can find me running or reading—No One Writes to the Colonel,  is my all-time favorite book.<br>
-  
+    
   🎯 Currently, I’m diving into tech to expand my skills and knowledge. <br>
     My goal is to combine my experience in healthcare with technology to create innovative solutions that make a positive impact.<br>
   
